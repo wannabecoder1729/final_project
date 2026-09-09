@@ -1,0 +1,2 @@
+theia@theiadocker-rudrasenjadh:/home/project/emotion-detector-project$ pythopython3 -c "from EmotionDetection.emotion_detection import emotion_detector; print(emotion_detector('I love this'))"
+{'anger': 0.005808927, 'disgust': 0.0020104267, 'fear': 0.005620722, 'joy': 0.9842833, 'sadness': 0.024038913, 'dominant_emotion': 'joy'}
