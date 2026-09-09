@@ -1,0 +1,9 @@
+theia@theiadocker-rudrasenjadh:/home/project/emotion-detector-
+project$ python3 -m unittest test_emotion_detection.py -v
+test_emotion_detector (test_emotion_detection.TestEmotionDetection)
+Check dominant_emotion for five representative statements. ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.668s
+
+OK
