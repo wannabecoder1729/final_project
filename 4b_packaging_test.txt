@@ -1,0 +1,3 @@
+theia@theiadocker-rudrasenjadh:/home/project/emotion-detector-
+project$ pythopython3 -c "import EmotionDetection; print('EmotionDetection is a valid package')"
+EmotionDetection is a valid package
